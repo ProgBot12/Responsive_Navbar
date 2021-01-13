@@ -8,7 +8,7 @@ Display at full-width screen:
 </br>
 Display at 786px screen size and less:
 
-![image](assets/screenshots/tabletSizeScreenOpened.jpg);
+![image](assets/screenshots/tabletSizeScreen.jpg);
 
 
 </br>
