@@ -9,5 +9,6 @@ Display at 786px screen size and less:
 </br>
 ![image](assets/screenshots/tabletSizeScreen.jpg);
 
+</br>
 Display at 786px screen size and less opened:
 ![image](assets/screenshots/tabletSizeScreenOpened.jpg);
