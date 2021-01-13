@@ -16,13 +16,6 @@ const navSlide = () =>{
                 link.style.animation = `navLinkFade 0.5s ease forwards ${index / 7 + 0.5}s`;
             }
         });
-
-        //Burger-menu animation
-        
-        burgerMenu.classList.toggle('fa-rotate-90');
-        burgerMenu.classList.toggle('.spacing');
-
-        
     });
 
 
