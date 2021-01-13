@@ -6,6 +6,12 @@ Display at full-width screen:
 ![image](assets/screenshots/fullSizeScreen.jpg)
 
 </br>
+Display at 786px screen size and less:
+
+![image](assets/screenshots/tabletSizeScreenOpened.jpg);
+
+
+</br>
 
 Display at 786px screen size and less opened:
 
